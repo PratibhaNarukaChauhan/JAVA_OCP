@@ -1,0 +1,41 @@
+  git init
+    2  ls
+    3  pwd
+    4  cd Desktop
+    5  pwd
+    6  cd PratibhaGIT
+    7  ls
+    8  git init
+    9  ls
+   10  ls -a
+   11  git status
+   12  vi README.md
+   13  del README.md
+   14  remove README.md
+   15  rem README.md
+   16  rm README.md
+   17  ls
+   18  clear
+   19  git add README.md
+   20  echo "# JAVA_OCP" >> README.md
+   21  ls
+   22  git stauts
+   23  git status
+   24  git add README.md
+   25  git commit -m "First Commit Empty README File"
+   26  git config --global pratibhanaruka8@gmail.com
+   27  git config --global user.email "pratibhanaruka8@gmail.com"
+   28  git config --global user.name "Pratibha Chauhan"
+   29  git commit -m "First Commit Empty README File"
+   30  git status
+   31  git branch -M main
+   32  git remote add origin https://github.com/PratibhaNarukaChauhan/JAVA_OCP
+   33  git remote add origin https://github.com/PratibhaNarukaChauhan/JAVA_OCP.git
+   34  remote remove origin
+   35  git remote remove origin
+   36  git remote add origin https://github.com/PratibhaNarukaChauhan/JAVA_OCP.git
+   37  git status
+   38  git push -u origin maib
+   39  git push -u origin main
+   40  history
+
